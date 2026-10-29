@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+backend/uploads/snapshots/*
+!backend/uploads/snapshots/.gitkeep
+backend/uploads/students/*
+!backend/uploads/students/.gitkeep
+.vscode/
+.idea/
+
